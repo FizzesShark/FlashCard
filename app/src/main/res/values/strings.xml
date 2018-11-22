@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlashCard</string>
+    <string name="title_activity_card_set_list">CardSetListActivity</string>
+    <string name="title_activity_add_card_set">AddCardSetActivity</string>
+    <string name="title_activity_card_list">CardListActivity</string>
+    <string name="title_activity_add_card">AddCardActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_result_screen">ResultScreen</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
